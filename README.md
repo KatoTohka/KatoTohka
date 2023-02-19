@@ -12,6 +12,7 @@
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about TSC(Time Series Classfication)
 - 📫 How to reach me: QQ:1205437241
+- 😄 More about me: https://katotohka.github.io/
 <!-- - 😄 Pronouns: 
 - ⚡ Fun fact: ... -->
 
