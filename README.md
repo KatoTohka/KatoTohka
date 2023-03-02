@@ -7,7 +7,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying in CUG
-- 🌱 I’m currently learning FrameWork
+- 🌱 I’m currently learning Golang
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about TSC(Time Series Classfication)
