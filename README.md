@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about TSC(Time Series Classfication)
 - 📫 How to reach me: QQ:1205437241
-- 😄 More about me: [我的简历_myCV](https://cdn.staticaly.com/gh/KatoTohka/pic1@main/202303021154689.pdf)
+- 😄 More about me: [我的简历_myCV](https://cdn.staticaly.com/gh/KatoTohka/pic1@main/202303151637259.pdf))
 <!-- - 😄 Pronouns: 
 - ⚡ Fun fact: ... -->
 
