@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying in CUG
 - 🌱 I’m currently learning Java & Rust
-- 👯 I’m looking to work in PDD
+- 👯 I’m going to work in TEMU
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 😄 More about me: [我的简历_myCV](https://cdn.staticaly.com/gh/KatoTohka/pic1@main/202303151637259.pdf))
